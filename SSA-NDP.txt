@@ -1,0 +1,5 @@
+v1.2.0 - 12 de junio 2025
+
+- Se mejoró la velocidad del personaje principal.
+- Se arregló un bug que causaba crash al abrir la tienda.
+- Nuevo skin agregado para el personaje "El Delivery".
