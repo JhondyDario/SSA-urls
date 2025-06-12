@@ -1,4 +1,4 @@
-<size=150%><b>v1.3.0 - 12 de junio 2025</b></size>
+<size=150%><b>v0.0.1 - 12 de junio 2025</b></size>
 <color=#888888>Última actualización publicada</color>
 
 \n
