@@ -1,5 +1,16 @@
-v0.0.1 - 12 de junio 2025
+<size=150%><b>v1.2.0 - 12 de junio 2025</b></size>
+<color=#999999>Notas del parche más reciente</color>
 
-- Se mejoró la velocidad del personaje principal.
-- Se arregló un bug que causaba crash al abrir la tienda.
-- Nuevo skin agregado para el personaje "El Delivery".
+<b>🆕 Nuevas funciones:</b>
+- Se agregó un nuevo nivel secreto en "La 42".
+- Habilidad especial del personaje <b>El Delivery</b> ahora incluye doble salto.
+
+<b>🐞 Correcciones de errores:</b>
+- Arreglado bug donde el juego se congelaba al abrir la tienda.
+- Solucionado problema con la música que no paraba en el menú.
+
+<b>🎨 Mejoras visuales:</b>
+- Animaciones más suaves al correr.
+- Nuevos efectos de partículas.
+
+<size=80%><color=#AAAAAA>Gracias por jugar. ¡Nos vemos en la próxima versión!</color></size>
