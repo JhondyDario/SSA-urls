@@ -1,16 +1,21 @@
-<size=150%><b>v1.2.0 - 12 de junio 2025</b></size>
-<color=#999999>Notas del parche más reciente</color>
+<size=150%><b>v1.3.0 - 12 de junio 2025</b></size>
+<color=#888888>Última actualización publicada</color>
 
-<b>🆕 Nuevas funciones:</b>
-- Se agregó un nuevo nivel secreto en "La 42".
-- Habilidad especial del personaje <b>El Delivery</b> ahora incluye doble salto.
+\n
+<b><size=120%>🆕 Cambios nuevos:</size></b>
+- Se añadió una nueva misión secreta en el nivel de <b>La 42</b>.
+- El personaje <color=#FFD700><b>El Delivery</b></color> ahora tiene voz dominicana 🔊.
 
-<b>🐞 Correcciones de errores:</b>
-- Arreglado bug donde el juego se congelaba al abrir la tienda.
-- Solucionado problema con la música que no paraba en el menú.
+\n
+<b><size=120%>🐞 Bugs arreglados:</size></b>
+- Ya no se congela la pantalla al entrar a la tienda.
+- Solucionado un error visual con el menú de pausa.
+- Se corrigió el texto mal escrito en la pantalla de victoria.
 
-<b>🎨 Mejoras visuales:</b>
-- Animaciones más suaves al correr.
-- Nuevos efectos de partículas.
+\n
+<b><size=120%>🎨 Mejoras visuales:</size></b>
+- Nuevos efectos de partículas cuando haces un combo triple.
+- Fondo animado agregado en el menú principal.
 
-<size=80%><color=#AAAAAA>Gracias por jugar. ¡Nos vemos en la próxima versión!</color></size>
+\n
+<size=90%><color=#AAAAAA>Gracias por apoyar el juego 🇩🇴. ¡Sigue atento pa’ más actualizaciones!</color></size>
