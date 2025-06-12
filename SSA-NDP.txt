@@ -2,20 +2,20 @@
 <color=#888888>Última actualización publicada</color>
 
 \n
-<b><size=120%>🆕 Cambios nuevos:</size></b>
-- Se añadió una nueva misión secreta en el nivel de <b>La 42</b>.
-- El personaje <color=#FFD700><b>El Delivery</b></color> ahora tiene voz dominicana 🔊.
+<b><size=120%>🕹 Cambios nuevos:</size></b>
+- Se añadió una nueva misión secreta en el nivel de <b>Circuito Rulay</b>.
+- El personaje <color=#FFD700><b>Pambisote</b></color> ahora tiene voz española.
 
 \n
-<b><size=120%>🐞 Bugs arreglados:</size></b>
+<b><size=120%>🛠 Bugs arreglados:</size></b>
 - Ya no se congela la pantalla al entrar a la tienda.
 - Solucionado un error visual con el menú de pausa.
 - Se corrigió el texto mal escrito en la pantalla de victoria.
 
 \n
-<b><size=120%>🎨 Mejoras visuales:</size></b>
+<b><size=120%>❤ Mejoras visuales:</size></b>
 - Nuevos efectos de partículas cuando haces un combo triple.
 - Fondo animado agregado en el menú principal.
 
 \n
-<size=90%><color=#AAAAAA>Gracias por apoyar el juego 🇩🇴. ¡Sigue atento pa’ más actualizaciones!</color></size>
+<size=90%><color=#AAAAAA>Nos vemos en la arena, streamers.</color></size>
