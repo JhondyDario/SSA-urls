@@ -1,4 +1,4 @@
-<size=150%><align=center>¡Gracias por jugar Super Streamers Arena!</align></size>
+<size=150%><color=#D9D3C1><align=center>¡Gracias por jugar Super Streamers Arena!</align></color></size>
 <size=90%><color=#888888><align=center>Publicado el 12 de octubre de 2025</align></color></size>
 \n\n\n\n\n\n
 <size=120%><align=center>Sonidos utilizados:</align></size>
