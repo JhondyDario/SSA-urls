@@ -1,35 +1,36 @@
-<size=150%><b>* ¡Gracias por jugar Super Streamers Arena!</b></size>
-<color=#888888>Publicado el 12 de junio de 2025</color>
+<size=150%><b><align=center>* ¡Gracias por jugar Super Streamers Arena!</align></b></size>
+<size=90%><color=#888888><align=center>Publicado el 12 de octubre de 2025</align></color></size>
+\n\n\n\n\n
+
+<size=120%><b><align=center>* Sonidos utilizados:</align></b></size>
+- <size=90%><color=#AAAAAA><b>freesound.org</b></color></size>: Efectos de disparos, botones, risas y sonidos de ambiente urbano.  
+- <size=90%><color=#AAAAAA><b>Zapsplat</b></color></size>: Algunos FX para combos y explosiones animadas.  
+- <size=90%><color=#AAAAAA><b>Mixkit</b></color></size>: Música de fondo para menús y niveles.  
+\n\n\n\n\n
+
+<size=120%><b><align=center>* UI y elementos visuales:</align></b></size>
+- <size=90%><color=#AAAAAA><b>Kenny.nl</b></color></size>: Botones, barras de vida y paneles animados.  
+- <size=90%><color=#AAAAAA><b>CraftPix.net</b></color></size>: Iconos de menú, elementos de HUD y feedback visual.  
+- <size=90%><color=#AAAAAA><b>FontSpace</b></color></size>: Tipografías con estilo gamer retro.  
+\n\n\n\n\n
+
+<size=120%><b><align=center>* Sprites y efectos especiales:</align></b></size>
+- <size=90%><color=#AAAAAA><b>itch.io (recursos CC0)</b></color></size>: Sprites de explosiones, rayos y humo.  
+- <size=90%><color=#AAAAAA><b>OpenGameArt.org</b></color></size>: Efectos visuales de poderes y partículas.  
+- <size=90%><color=#AAAAAA><b>PixelBoy (Asset Pack)</b></color></size>: Tiles y decoración del Circuito Rulay.  
+\n\n\n\n\n
+
+<size=120%><b><align=center>* Colaboradores especiales:</align></b></size>
+- <size=90%><color=#AAAAAA><b>Jhondy Darío</b></color></size>: Desarrollador, diseñador y doblador de voces.  
+- <size=90%><color=#AAAAAA><b>Mabe</b></color></size>: Voz y pruebas de calidad (y soporte emocional en crunch time).  
+- <size=90%><color=#AAAAAA><b>Angel & Ari</b></color></size>: Feedback en gameplays y balanceo.  
+\n\n\n\n\n
+
+<size=120%><b><align=center>* Plataformas de inteligencia artificial:</align></b></size>
+- <size=90%><color=#AAAAAA><b>ChatGPT</b></color></size>: Apoyo con guiones, ideas locas, ajustes de código y hasta esta nota que estás leyendo.  
+- <size=90%><color=#AAAAAA><b>Leonardo.Ai</b></color></size>: Para arte conceptual inicial y mockups del menú principal.  
+- <size=90%><color=#AAAAAA><b>ElevenLabs</b></color></size>: Para la voz experimental de personajes como Pambisote.  
 \n
-Desde el fondo del corazón (y de Unity), queremos agradecerle a cada jugador que le dio play a <b>Super Streamers Arena</b>.  
-Este proyecto nació como una loquera en una laptop con el trackpad medio dañado, y hoy gracias a ustedes, se siente como una realidad con futuro.
-\n
-<size=120%><b>* Sonidos utilizados:</b></size>
-- <b>freesound.org</b>: Efectos de disparos, botones, risas y sonidos de ambiente urbano.  
-- <b>Zapsplat</b>: Algunos FX para combos y explosiones animadas.  
-- <b>Mixkit</b>: Música de fondo para menús y niveles.  
-\n
-<size=120%><b>* UI y elementos visuales:</b></size>
-- <b>Kenny.nl</b>: Botones, barras de vida y paneles animados.  
-- <b>CraftPix.net</b>: Iconos de menú, elementos de HUD y feedback visual.  
-- <b>FontSpace</b>: Tipografías con estilo gamer retro.  
-\n
-<size=120%><b>* Sprites y efectos especiales:</b></size>
-- <b>itch.io (recursos CC0)</b>: Sprites de explosiones, rayos y humo.  
-- <b>OpenGameArt.org</b>: Efectos visuales de poderes y partículas.  
-- <b>PixelBoy (Asset Pack)</b>: Tiles y decoración del Circuito Rulay.  
-\n
-<size=120%><b>* Colaboradores especiales:</b></size>
-- <b>Jhondy Darío</b>: Desarrollador, diseñador y doblador de voces.  
-- <b>Mabe</b>: Voz y pruebas de calidad (y soporte emocional en crunch time).  
-- <b>Angel & Ari</b>: Feedback en gameplays y balanceo.  
-\n
-<size=120%><b>* Plataformas de inteligencia artificial:</b></size>
-- <b>ChatGPT</b>: Apoyo con guiones, ideas locas, ajustes de código y hasta esta nota que estás leyendo.  
-- <b>Leonardo.Ai</b>: Para arte conceptual inicial y mockups del menú principal.  
-- <b>ElevenLabs</b>: Para la voz experimental de personajes como Pambisote.  
-\n
-<size=90%><color=#AAAAAA>Esto es solo el comienzo.  
-Gracias por formar parte de esta comunidad.  
-Nos vemos en la próxima actualización… o en la próxima chercha.  
-– El equipo de Super Streamers Arena</color></size>
+
+<size=90%><color=#AAAAAA>Desde el fondo del corazón (y de Unity), queremos agradecerle a cada jugador que le dio play a </color><b>Super Streamers Arena</b>.</size>
+<size=90%><color=#AAAAAA>Este proyecto nació como una loquera en una laptop con el trackpad medio dañado, y hoy gracias a ustedes, se siente como una realidad con futuro.</color></size>
