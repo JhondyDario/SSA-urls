@@ -3,32 +3,32 @@
 \n\n\n\n\n\n
 <size=120%><align=center>Sonidos utilizados:</align></size>
 \n
-<size=90%><color=#AAAAAA><b>freesound.org</b></color></size>: Efectos de disparos, botones, risas y sonidos de ambiente urbano.  
-<size=90%><color=#AAAAAA><b>Zapsplat</b></color></size>: Algunos FX para combos y explosiones animadas.  
-<size=90%><color=#AAAAAA><b>Mixkit</b></color></size>: Música de fondo para menús y niveles.  
+<size=90%><color=#AAAAAA><b>Minimax</b></color></size>: Modulador de voces con IA.
+<size=90%><color=#AAAAAA><b>Voice Maker</b></color></size>: Para añadir efectos de sonido.
+<size=90%><color=#AAAAAA><b>Pixabay</b></color></size>: Biblioteca de efectos de sonidos gratuitos.
 \n\n\n\n\n\n
 <size=120%><align=center>UI y elementos visuales:</align></size>
 \n
-<size=90%><color=#AAAAAA><b>Kenny.nl</b></color></size>: Botones, barras de vida y paneles animados.  
-<size=90%><color=#AAAAAA><b>CraftPix.net</b></color></size>: Iconos de menú, elementos de HUD y feedback visual.  
-<size=90%><color=#AAAAAA><b>FontSpace</b></color></size>: Tipografías con estilo gamer retro.  
+<size=90%><color=#AAAAAA><b>Dafont</b></color></size>: Tipografías con estilo gamer retro.
+<size=90%><color=#AAAAAA><b>Spriters-resource</b></color></size>: Para consultar elementos visuales.
+<size=90%><color=#AAAAAA><b>Itch io</b></color></size>: Biblioteca de recursos UI y Tiles.
 \n\n\n\n\n\n
 <size=120%><align=center>Sprites y efectos especiales:</align></size>
 \n
-<size=90%><color=#AAAAAA><b>itch.io (recursos CC0)</b></color></size>: Sprites de explosiones, rayos y humo.  
-<size=90%><color=#AAAAAA><b>OpenGameArt.org</b></color></size>: Efectos visuales de poderes y partículas.  
-<size=90%><color=#AAAAAA><b>PixelBoy (Asset Pack)</b></color></size>: Tiles y decoración del Circuito Rulay.  
+<size=90%><color=#AAAAAA><b>Itch io</b></color></size>: Plantilla de sprites y efectos adicionales.
+<size=90%><color=#AAAAAA><b>Unity assetstore</b></color></size>: Efectos visuales de poderes y partículas.  
+<size=90%><color=#AAAAAA><b>Flaticon</b></color></size>: Iconos e ilustraciones para prefabs.  
 \n\n\n\n\n\n
 <size=120%><align=center>Colaboradores especiales:</align></size>
 \n
-<size=90%><color=#AAAAAA><b>Jhondy Darío</b></color></size>: Desarrollador, diseñador y doblador de voces.  
-<size=90%><color=#AAAAAA><b>Mabe</b></color></size>: Voz y pruebas de calidad (y soporte emocional en crunch time).  
-<size=90%><color=#AAAAAA><b>Angel & Ari</b></color></size>: Feedback en gameplays y balanceo.  
+<size=90%><color=#AAAAAA><b>Jhondy</b></color></size>: Desarrollador, diseñador y doblador de voces.  
+<size=90%><color=#AAAAAA><b>Maralien</b></color></size>: Voz de locutora y pruebas de calidad.  
+<size=90%><color=#AAAAAA><b>Hansel</b></color></size>: Creador de plantilla inicial de sprites de streamers.  
 \n\n\n\n\n\n
 <size=120%><align=center>Plataformas de inteligencia artificial:</align></size>
 \n
-<size=90%><color=#AAAAAA><b>ChatGPT</b></color></size>: Apoyo con guiones, ideas locas, ajustes de código y hasta esta nota que estás leyendo.  
-<size=90%><color=#AAAAAA><b>Leonardo.Ai</b></color></size>: Para arte conceptual inicial y mockups del menú principal.  
-<size=90%><color=#AAAAAA><b>ElevenLabs</b></color></size>: Para la voz experimental de personajes como Pambisote.  
+<size=90%><color=#AAAAAA><b>ChatGPT</b></color></size>: Apoyo con ideas locas, ajustes de código y hasta esta nota que estás leyendo.  
+<size=90%><color=#AAAAAA><b>Suno</b></color></size>: Creador de instrumentales estilo retro mediante IA.
+<size=90%><color=#AAAAAA><b>Copilot</b></color></size>: Ilustraciones y objetos generados de texto a imagen.  
 \n
 <size=90%><color=#AAAAAA>Desde el fondo del corazón (y de Unity), queremos agradecerle a cada jugador que le dio play a </color><b>Super Streamers Arena</b>. <color=#AAAAAA>Este proyecto nació como una loquera en una laptop con el trackpad medio dañado, y hoy gracias a ustedes, se siente como una realidad con futuro.</color></size>
