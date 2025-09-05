@@ -2,31 +2,31 @@
 <size=90%><color=#888888><align=center>Publicado el 12 de octubre de 2025</align></color></size>
 \n\n\n\n\n\n
 <size=120%><align=center>Sonidos utilizados:</align></size>
-\n
+<size=30%>\n</size>
 <size=90%><color=#AAAAAA><b>Minimax</b></color></size>: Modulador de voces con IA.
 <size=90%><color=#AAAAAA><b>Voice Maker</b></color></size>: Para añadir efectos de sonido.
 <size=90%><color=#AAAAAA><b>Pixabay</b></color></size>: Biblioteca de efectos de sonidos gratuitos.
 \n\n\n\n\n\n
 <size=120%><align=center>UI y elementos visuales:</align></size>
-\n
+<size=30%>\n</size>
 <size=90%><color=#AAAAAA><b>Dafont</b></color></size>: Tipografías con estilo gamer retro.
 <size=90%><color=#AAAAAA><b>Spriters-resource</b></color></size>: Para consultar elementos visuales.
 <size=90%><color=#AAAAAA><b>Itch io</b></color></size>: Biblioteca de recursos UI y Tiles.
 \n\n\n\n\n\n
 <size=120%><align=center>Sprites y efectos especiales:</align></size>
-\n
+<size=30%>\n</size>
 <size=90%><color=#AAAAAA><b>Itch io</b></color></size>: Plantilla de sprites y efectos adicionales.
 <size=90%><color=#AAAAAA><b>Unity assetstore</b></color></size>: Efectos visuales de poderes y partículas.  
 <size=90%><color=#AAAAAA><b>Flaticon</b></color></size>: Iconos e ilustraciones para prefabs.  
 \n\n\n\n\n\n
 <size=120%><align=center>Colaboradores especiales:</align></size>
-\n
+<size=30%>\n</size>
 <size=90%><color=#AAAAAA><b>Jhondy</b></color></size>: Desarrollador, diseñador y doblador de voces.  
 <size=90%><color=#AAAAAA><b>Maralien</b></color></size>: Voz de locutora y pruebas de calidad.  
 <size=90%><color=#AAAAAA><b>Hansel</b></color></size>: Creador de plantilla inicial de sprites de streamers.  
 \n\n\n\n\n\n
 <size=120%><align=center>Plataformas de inteligencia artificial:</align></size>
-\n
+<size=30%>\n</size>
 <size=90%><color=#AAAAAA><b>ChatGPT</b></color></size>: Apoyo con ideas locas, ajustes de código y hasta esta nota que estás leyendo.  
 <size=90%><color=#AAAAAA><b>Suno</b></color></size>: Creador de instrumentales estilo retro mediante IA.
 <size=90%><color=#AAAAAA><b>Copilot</b></color></size>: Ilustraciones y objetos generados de texto a imagen.  
