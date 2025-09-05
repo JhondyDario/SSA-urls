@@ -1,7 +1,7 @@
 \n
 <size=150%><color=#D9D3C1><align=center>¡Gracias por jugar Super Streamers Arena!</align></color></size>
 <size=90%><color=#888888><align=center>Publicado el 12 de octubre de 2025</align></color></size>
-\n\n\n\n\n\n
+\n\n\n\n\n\n\n
 <size=120%>Sonidos utilizados:</size>
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>Minimax</b></color></size>: Modulador de voces con IA.
@@ -9,7 +9,7 @@
 <size=90%><color=#AAAAAA><b>Voice Maker</b></color></size>: Para añadir efectos de sonido.
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>Pixabay</b></color></size>: Biblioteca de efectos de sonidos gratuitos.
-\n\n\n\n\n\n
+\n\n\n\n\n\n\n
 <size=120%>UI y elementos visuales:</size>
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>Dafont</b></color></size>: Tipografías con estilo gamer retro.
@@ -17,7 +17,7 @@
 <size=90%><color=#AAAAAA><b>Spriters-resource</b></color></size>: Para consultar elementos visuales.
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>Itch io</b></color></size>: Biblioteca de recursos UI y Tiles.
-\n\n\n\n\n\n
+\n\n\n\n\n\n\n
 <size=120%>Sprites y efectos especiales:</size>
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>Itch io</b></color></size>: Plantilla de sprites y efectos adicionales.
@@ -25,7 +25,7 @@
 <size=90%><color=#AAAAAA><b>Unity assetstore</b></color></size>: Efectos visuales de poderes y partículas.
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>Flaticon</b></color></size>: Iconos e ilustraciones para prefabs.
-\n\n\n\n\n\n
+\n\n\n\n\n\n\n
 <size=120%>Colaboradores especiales:</size>
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>Jhondy</b></color></size>: Desarrollador, diseñador y doblador de voces.
@@ -33,7 +33,7 @@
 <size=90%><color=#AAAAAA><b>Maralien</b></color></size>: Voz de locutora y pruebas de calidad.
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>Hansel</b></color></size>: Creador de plantilla inicial de sprites de streamers.
-\n\n\n\n\n\n
+\n\n\n\n\n\n\n
 <size=120%>Plataformas de inteligencia artificial:</size>
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA><b>ChatGPT</b></color></size>: Apoyo con ideas locas, ajustes de código y hasta esta nota que estás leyendo.
