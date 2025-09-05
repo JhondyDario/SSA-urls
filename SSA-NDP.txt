@@ -1,20 +1,29 @@
-<size=150%><b>v0.0.1 - 12 de junio 2025</b></size>
-<color=#888888>Última actualización publicada</color>
+\n\n\n\n\n\n\n
+<size=150%><color=#D9D3C1><align=center>Notas del parche, versión 0.1</align></color></size>
+<size=90%><color=#888888><align=center>Publicado el 12 de octubre de 2025</align></color></size>
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Jhondy: Si estás leyendo esto, felicidades: formas parte del lanzamiento oficial de <b>Super Streamers Arena</b>. Si, estoy conciente de que hay muchas mejoras pendientes por implementar, pero recuerda que el juego está siendo desarrollado por una sola persona con una laptop carbonizada, esto toma tiempo. Como sea, vamos directamente con la estructura del juego:</color></size>
+<size=5%>\n</size>
+<size=120%>Descripción de menú:</size>
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Jugar</color></size>: Disponible varios modos de juego, como el clásico modo arcade de 1 jugador, así como partida rápida de 2 a 4 jugadores. Puedes jugar ofline para enfrentarte a las CPUs o competir en el online contra otros jugadores en tiempo real.
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Tienda</color></size>: Con varios tipo de artículos disponibles, la tienda te permite desbloquear streamers, arenas, efectos de particulas, música y muchas cosas más. Como casi nada es gratis en esta vida, deberás recolectar mogemas que son las monedas del juego, para poder comprar en la tienda.
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Librería</color></size>: Échale un vistaso a tu recolección de recursos como una galería de ilustraciones, música desbloqueada, logros, entre otros.
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Opciones</color></size>: Cada parte del juego es personalizada mediante el audio, efectos visuales, ajuste de mandos entre otros ajustes.
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Comunidad</color></size>: Puedes estar al día con las informaciones compartidas en este menú, sobre todo cuando haya una nota de parche nueva.  
 \n
-<b><size=120%>* Cambios nuevos:</size></b>
-
-- Se añadió una nueva misión secreta en el nivel de <b>Circuito Rulay</b>.
-- El personaje <color=#FFD700><b>Pambisote</b></color> ahora tiene voz española.
+<size=120%>Otras notas:</size>
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>UI y HUD</color></size>: Apariencia futurista en botones con efectos visuales retro.
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Audio</color></size>: Melodias de estilo arcade con audio de personaje generados con moduladores de IA.
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Balanceo</color></size>: Ajustes a daño de ataques básicos simples y fuertes.
+<size=5%>\n</size>
+<size=90%><color=#AAAAAA>Optimización</color></size>: Pantallas de carga para generar los recursos y reducir tirones durante los combates.  
 \n
-<b><size=120%>* Bugs arreglados:</size></b>
-
-- Ya no se congela la pantalla al entrar a la tienda.
-- Solucionado un error visual con el menú de pausa.
-- Se corrigió el texto mal escrito en la pantalla de victoria.
-\n
-<b><size=120%>* Mejoras visuales:</size></b>
-
-- Nuevos efectos de partículas cuando haces un combo triple.
-- Fondo animado agregado en el menú principal.
-\n
-<size=90%><color=#AAAAAA>Nos vemos en la arena, streamers.</color></size>
+<size=90%><color=#AAAAAA>Esto apenas comienza. Gracias por formar parte de la primera ola de jugadores que pisan la arena. Nos vemos en el pavimento, portadores de streamers.</color></size>
