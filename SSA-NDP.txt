@@ -25,5 +25,5 @@
 <size=90%><color=#AAAAAA>Balanceo</color></size>: Ajustes a daño de ataques básicos simples y fuertes.
 <size=5%>\n</size>
 <size=90%><color=#AAAAAA>Optimización</color></size>: Pantallas de carga para generar los recursos y reducir tirones durante los combates.  
-\n
+<size=5%>\n</size>
 <size=90%><color=#AAAAAA>Esto apenas comienza. Gracias por formar parte de la primera ola de jugadores que pisan la arena. Nos vemos en el pavimento, portadores de streamers.</color></size>
