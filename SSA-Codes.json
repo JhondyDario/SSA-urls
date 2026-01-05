@@ -2,17 +2,17 @@
   "codes": [
     {
       "code": "128947",
-      "reward": 350,
+      "reward": 1350,
       "expires": "2026-12-31"
     },
     {
       "code": "846210",
-      "reward": 650,
+      "reward": 2650,
       "expires": "2026-12-31"
     },
     {
       "code": "319004",
-      "reward": 1000,
+      "reward": 3000,
       "expires": "2026-12-31"
     }
   ]
